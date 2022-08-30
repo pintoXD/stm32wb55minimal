@@ -1,1 +1,5 @@
 Debug/*
+Debug/objects.list
+.gitignore
+agoravai_teste2 Debug.launch
+Debug/objects.list
